@@ -1,0 +1,8 @@
+Cryptosporidium GP 60 Subtyping Analysis
+Developed by : Alyssa Kelly Clinical Detection Surveillance - WDPB,CDC
+Tool version - 1.0 and GP60 Database was updated on : 2020-03-30
+Note: Please note that the assays used are not ISO or CLIA-certified and should not be considered diagnostic.
+
+
+SampleID	gp60_Subtype	Fasta_Header	Database_Best_Match	Length(bp)	Blast_Identity	Coverage	NCE
+CDCCrypto2_S2_L001_SkesaContigs	IIa	Contig_2752_54.9502	C_parvum_IIaA13G2R1_37-82_AY167590_CI8_Italy_cow	1085	99.464	69	Sequence missing 5' repeat region.

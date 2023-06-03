@@ -1,0 +1,22 @@
+#
+Crypto_GP60_typing algorithm has initiated
+Created all required directories and subdirectories
+Created all log files
+Running Blast
+Finished Blast
+Starting to parse the Blast output
+Done parsing
+Starting to filter the best Blast hits
+Done filtering
+Checking if query matched hit's tri-repeat region
+Done checking
+Starting to retrieve and format gp60 sequences
+Done formatting
+Starting subtyping of gp60 sequences
+Done subtyping
+Checking and formatting results
+Finished checking final results
+Converting TXT to JSON format
+Done file conversion
+Encrypting results
+Done encryption

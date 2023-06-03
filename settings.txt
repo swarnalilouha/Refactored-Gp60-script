@@ -1,0 +1,6 @@
+--query=/scicomp/home-pure/qxu5/CE_Mock/data-example/shared/Crypto_gp60Typer/ExampleInput/CDCCrypto2_S2_L001_SkesaContigs.fasta
+--reference_folder=/scicomp/home-pure/qxu5/CE_Mock/data-example/shared/Crypto_gp60Typer/gp60_BlastDB/Crypto_GP60_DB
+--data=wgs
+--localdir=/scicomp/home-pure/qxu5/CE_Mock/scratch-example/gp60_localdir
+--resultsdir=/scicomp/home-pure/qxu5/CE_Mock/data-example/ceroot/execute/gp60_resultsdir
+--mepi
